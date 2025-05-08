@@ -12,7 +12,7 @@ import textwrap as tw
 import os
 import math
 import matplotlib.pyplot as plt
-file_path = 'C:/Users/obriene/Projects/Allergy/Inequalities'
+file_path = 'C:/Users/obriene/Projects/Inequalities/Allergy Service'
 # =============================================================================
 #     #Read in and tidy data
 # =============================================================================
