@@ -1,2 +1,5 @@
 #Plots folder
 Plots/
+
+#word documents
+*.docx
